@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Curtis Wilson =====================================================================================================================================   python  Developer ----------------  Hello , I Am a  Python Developer with a passion for learning new things  * 🌍  I'm based in Charlotte , NC * ✉️  You can contact me at [Curtis88m@gmail.com](mailto:Curtis88m@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Curtis Wilson =====================================================================================================================================    ----------------  Hello ,I'm Curtis with a passion for learning new things  * 🌍  I'm based in Charlotte , NC * ✉️  You can contact me at [Curtis88m@gmail.com](mailto:Curtis88m@gmail.com)
 
 ### Skills  
 
