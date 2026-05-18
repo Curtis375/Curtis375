@@ -9,7 +9,7 @@
 
 # 🚨 About ME
 
-**I build secure, scalable full-stack applications that combine intuitive user experiences with robust back-end architecture, cloud infrastructure, and intelligent data-driven capabilities. With 6+ years of software engineering experience, including the past 16 months focused on applied AI/ML, automation, and analytics, I deliver production-ready solutions that align business goals, operational efficiency, and user needs.**
+**I build secure, scalable full-stack applications that combine intuitive user experiences with robust back-end architecture, cloud infrastructure, and intelligent data-driven capabilities. With 6+ years of software engineering experience, including the past 2 years focused on applied AI/ML, automation, and analytics, I deliver production-ready solutions that align business goals, operational efficiency, and user needs.**
 
 *I am a Full Stack Software Engineer specializing in modern web technologies including TypeScript, Next.js, Node.js, Python, and SQL/NoSQL databases. I build secure, scalable, end-to-end applications with responsive user interfaces, reliable backend systems, cloud infrastructure, and clean API architectures.
 
